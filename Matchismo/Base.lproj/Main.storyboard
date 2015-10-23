@@ -32,7 +32,7 @@
                                     <constraint firstAttribute="height" constant="111" id="tf6-me-Erm"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="21"/>
-                                <state key="normal" title="A♣︎" backgroundImage="cardfront">
+                                <state key="normal" backgroundImage="cardback">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <userDefinedRuntimeAttributes>
@@ -65,6 +65,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="cardfront" width="615" height="251"/>
+        <image name="cardback" width="975" height="1350"/>
     </resources>
 </document>
