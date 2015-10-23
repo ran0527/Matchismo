@@ -18,3 +18,5 @@ DerivedData
 *.moved-aside
 *.xcuserstate
 *.xcscmblueprint
+
+*.xcbkptlist
